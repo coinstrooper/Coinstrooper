@@ -11,12 +11,6 @@ Unlike trading exchanges, **Coinstrooper is a dedicated data analytics platform*
 * **Market Analysis:** Deep-dive metrics and historical price data for long-term investors.
 * **Transparency:** Open-source tools for the community to verify market data accuracy.
 
-### 🛠️ Tech Stack
-* **Backend:** PHP (Optimized for high-frequency data ingestion)
-* **Data Sources:** CoinRanking API, Custom Scrapers
-* **Infrastructure:** Dedicated UK-based Hosting
-* **Automation:** Python & Node.js bots for social sentiment analysis
-
 ### 🌐 Official Coinstrooper Channels
 To ensure you are accessing the official **Coinstrooper** platform and avoid confusion with third-party exchanges, please only use the following verified links:
 
